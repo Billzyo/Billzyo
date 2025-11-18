@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chungu_Musaka or Billzyo 
 - 👀 I’m interested in ...very much interested in programming and reading novels.
-- 🌱 I’m currently learning ... python, c++
+- 🌱 I’m currently done with intermediate ... python, c++
 - 💞️ I’m looking to collaborate on ... any project (pyhton or c++) to further advance my experience
 - 📫 How to reach me ...billzmusaka@gmail.com or chungu.musaka@cs.unza.zm
 - 😄 Pronouns: ...
